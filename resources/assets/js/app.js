@@ -13,4 +13,8 @@ require('./bootstrap');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-require('./components/Example');
+ /* Import components */
+ import Feedback from './components/Feedback';
+ import Main from './components/Main';
+ import Nav from './components/Nav';
+ import Picker from './components/Picker';

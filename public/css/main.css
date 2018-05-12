@@ -1,16 +1,3 @@
-
-// Fonts
-@import url("https://fonts.googleapis.com/css?family=Pangolin&amp;subset=cyrillic,cyrillic-ext,latin-ext,vietnamese");
-
-// Fonts Awesome
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
-
-// Variables
-@import "variables";
-
-// Bootstrap
-@import '~bootstrap/scss/bootstrap';
-
 * {
     padding: 0px;
     margin: 0px;
